@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background2.jpeg</file>
+        <file>backg1.jpeg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>05. Home Music Part 2.mp3</file>
+        <file>04. Home Music Part 1.mp3</file>
+        <file>26. Combat Music.mp3</file>
+        <file>38. Battle Lost.mp3</file>
+        <file>40. Battle Win.mp3</file>
+    </qresource>
+</RCC>

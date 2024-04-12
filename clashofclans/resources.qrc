@@ -2,6 +2,14 @@
     <qresource prefix="/images">
         <file>background2.jpeg</file>
         <file>backg1.jpeg</file>
+        <file>fence1.png</file>
+        <file>mainmenu.jpeg</file>
+        <file>startbutton.jpeg</file>
+        <file>base1.txt</file>
+        <file>clashgrass.jpeg</file>
+        <file>backg1v2.png</file>
+        <file>base1.png</file>
+        <file>cannon1.png</file>
     </qresource>
     <qresource prefix="/sounds">
         <file>05. Home Music Part 2.mp3</file>
@@ -9,5 +17,6 @@
         <file>26. Combat Music.mp3</file>
         <file>38. Battle Lost.mp3</file>
         <file>40. Battle Win.mp3</file>
+        <file>maintheme.mov</file>
     </qresource>
 </RCC>

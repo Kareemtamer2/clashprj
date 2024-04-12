@@ -1,22 +1,11 @@
 #ifndef LEVELS_H
 #define LEVELS_H
 
-#include <QDialog>
-
-namespace Ui {
-class levels;
-}
-
-class levels : public QDialog
+class levels
 {
-    Q_OBJECT
-
 public:
-    explicit levels(QWidget *parent = nullptr);
-    ~levels();
-
-private:
-    Ui::levels *ui;
+    levels();
+   static void start();
 };
 
 #endif // LEVELS_H

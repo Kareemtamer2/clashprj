@@ -1,3 +1,6 @@
  #include "citizens.h"
 
-citizens::citizens() {}
+citizens::citizens()
+{
+    setPixmap(QPixmap(":/images/fence1.png"));
+}

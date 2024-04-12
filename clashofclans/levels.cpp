@@ -1,14 +1,11 @@
 #include "levels.h"
-#include "ui_levels.h"
 
-levels::levels(QWidget *parent)
-    : QDialog(parent)
-    , ui(new Ui::levels)
+levels::levels()
 {
-    ui->setupUi(this);
+
 }
 
-levels::~levels()
+void levels::start()
 {
-    delete ui;
+
 }

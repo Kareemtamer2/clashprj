@@ -1,4 +1,5 @@
 #include "background.h"
+#include "enemy.h"
 
 background::background()
 {
@@ -14,6 +15,10 @@ background::background()
     fightsong->setAudioOutput(fighttheme);
     fightsong->setSource(QUrl("qrc:/sounds/26. Combat Music.mp3"));
     fightsong->play();
+
     //adding
+
     setScene(scene);
+    enemy* Enemy = new enemy();
+    scene->addItem(Enemy);
 }

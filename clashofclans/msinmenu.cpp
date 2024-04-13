@@ -35,6 +35,7 @@ void msinmenu::on_pushButton_clicked()
     //levels *lvl=new levels;
     back=new background();
     back->show();
+
     //lvl->start();
     hide();
 

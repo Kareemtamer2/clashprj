@@ -4,6 +4,8 @@
 #include "citizens.h"
 #include "msinmenu.h"
 #include "background.h"
+
+
 background *back;
 int main(int argc, char *argv[])
 {

@@ -10,6 +10,7 @@
         <file>backg1v2.png</file>
         <file>base1.png</file>
         <file>cannon1.png</file>
+        <file>enemy.png</file>
     </qresource>
     <qresource prefix="/sounds">
         <file>05. Home Music Part 2.mp3</file>

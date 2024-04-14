@@ -11,7 +11,6 @@ CONFIG += c++17
 
 SOURCES += \
     background.cpp \
-    basedesign.cpp \
     citizens.cpp \
     enemy.cpp \
     levels.cpp \
@@ -21,7 +20,6 @@ SOURCES += \
 
 HEADERS += \
     background.h \
-    basedesign.h \
     citizens.h \
     enemy.h \
     levels.h \

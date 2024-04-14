@@ -8,8 +8,7 @@ class basedesign: public QObject, public QGraphicsPixmapItem
 {
     Q_OBJECT
 public:
-    basedesign();
-    basedesign *design=new basedesign;
+    basedesign(QGraphicsScene *);
 };
 
 #endif // BASEDESIGN_H
